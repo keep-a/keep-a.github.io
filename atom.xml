@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://keep-a.github.to</id>
-    <title>Gridea</title>
-    <updated>2020-03-31T13:31:56.869Z</updated>
+    <title>黑凤梨</title>
+    <updated>2020-03-31T13:42:27.051Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://keep-a.github.to"/>
     <link rel="self" href="https://keep-a.github.to/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>人之所以有一张嘴,而有两只耳朵,原因是听的要比说的多一倍</subtitle>
     <logo>https://keep-a.github.to/images/avatar.png</logo>
     <icon>https://keep-a.github.to/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, 黑凤梨</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://keep-a.github.to/post/hello-gridea/</id>
